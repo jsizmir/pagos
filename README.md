@@ -45,7 +45,7 @@ yarn
 ## Usage
 
 ```
-yarn start
+yarn dev
 ```
 
 ## Contributing

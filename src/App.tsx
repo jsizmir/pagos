@@ -1,3 +1,11 @@
+import { Button } from "@/components/ui/button";
+
 export default function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <Button>
+        <span>Click me</span>
+      </Button>
+    </div>
+  );
 }

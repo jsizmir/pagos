@@ -27,7 +27,7 @@ This application aims to provide all data about Izmir in one place. It also aims
 
 Every item should have one issue and attached milestone. If you want to contribute, please check the issues.
 
-- [x] Choose a foundation UI library
+- [x] Choose a foundation UI library - [PR](https://github.com/jsizmir/pagos/pull/4) 
 - [ ] Create a basic layout
 - [ ] Create a map with Leaflet(fullscreen)
 - [ ] Design a data layer for location based data

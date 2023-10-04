@@ -1,11 +1,10 @@
-import { Button } from "@/components/ui/button";
-
 export default function App() {
   return (
-    <div>
-      <Button>
-        <span>Click me</span>
-      </Button>
-    </div>
+    <main className="w-screen h-screen bg-foreground flex text-primary-foreground">
+      <div className="md:w-[300px] border-r border-r-primary p-4">
+        {/* Collapsable Sidebar */}
+      </div>
+      <div>{/* Map with its actions */}</div>
+    </main>
   );
 }
